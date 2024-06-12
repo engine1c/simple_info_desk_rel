@@ -31,3 +31,4 @@ dio, dotenv, provider, flutter bloc, equatable
 ![Simple info desk](images/simple_info_desk_003.png)
 ![Simple info desk](images/simple_info_desk_004.png)
 ![Simple info desk](images/simple_info_desk_005.png)
+![Simple info desk](images/simple_info_desk_006.png)
